@@ -1,5 +1,5 @@
 clear
-echo "\033[34;1m Tools ./L3tterFake"
+echo "./L3tterFake"| figlet | lolcat
 sleep 1
 echo "\033[35;1m Macam-macam Tools" | lolcat
 sleep 1
