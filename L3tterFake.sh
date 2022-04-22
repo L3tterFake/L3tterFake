@@ -1,11 +1,10 @@
 clear
-echo "./L3tterFake"| figlet | lolcat
+echo "./L3tterFake" | lolcat
 sleep 1
 echo "\033[35;1m Macam-macam Tools" | lolcat
 sleep 1
 echo "\033[31;1m:)  Semoga Bermanfaat  (:"
 sleep 1
-clear
 
 
 echo "\033[34;1m[01] LiteDDos untuk website" 
