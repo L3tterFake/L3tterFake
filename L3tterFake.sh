@@ -50,7 +50,7 @@ echo "[40] Install ngrok"
 
 echo "\033[35;1m Silahkan pilih yang mau anda install"
 
-read -p "#Mr.R ~>#" pilihan
+read -p "#L3t ~>#" pilihan
 
 
 if [ $pilihan = "01" ] || [ $pilihan = "1" ]
